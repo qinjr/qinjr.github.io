@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 
-Computer Science Department, Shanghai Jiao Tong University
-310, Yifu Building, Shanghai Jiao Tong University, Shanghai. 200240.
+Computer Science Department, Shanghai Jiao Tong University.
+
+Room 310, Yifu Building, 800# Dongchuan Rd, Shanghai. 200240.
 
 Email: qinjr [at] icloud.com
