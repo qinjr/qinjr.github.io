@@ -5,11 +5,13 @@ permalink: /publication/DRSA
 excerpt: ''
 date: 2019-02-01
 venue: 'Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence. (AAAI 2019)'
-paperurl: '' 
-# citation: ''
+# paperurl: '' 
+citation: 'K. Ren, J. Qin, L. Zheng, Z. Yang, W. Zhang, L. Qiu, Y. Yu '
 ---
 
-[\[PDF\]](https://arxiv.org/pdf/1809.02403.pdf).
+K. Ren, **J. Qin**, L. Zheng, Z. Yang, W. Zhang, L. Qiu, Y. Yu.
+
+[\[PDF\]](https://arxiv.org/pdf/1809.02403.pdf)
 
 ### Abstract
 Survival analysis is a hotspot in statistical research for modeling time-to-event information with data censorship handling, which has been widely used in many applications such as clinical research, information system and other fields with survivorship bias. Many works have been proposed for survival analysis ranging from traditional statistic methods to machine learning models. However, the existing methodologies either utilize counting-based statistics on the segmented data, or have a pre-assumption on the event probability distribution w.r.t. time. Moreover, few works consider sequential patterns within the feature space. In this paper, we propose a Deep Recurrent Survival Analysis model which combines deep learning for conditional probability prediction at fine-grained level of the data, and survival analysis for tackling the censorship. By capturing the time dependency through modeling the conditional probability of the event for each sample, our method predicts the likelihood of the true event occurrence and estimates the survival rate over time, i.e., the probability of the non-occurrence of the event, for the censored data. Meanwhile, without assuming any specific form of the event probability distribution, our model shows great advantages over the previous works on fitting various sophisticated data distributions. In the experiments on the three real-world tasks from different fields, our model significantly outperforms the state-of-the-art solutions under various metrics.
