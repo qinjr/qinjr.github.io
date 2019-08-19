@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -17,6 +17,14 @@ author_profile: true
 
 # Publications ([Google Scholar Profile](https://scholar.google.com/citations?user=JPBGjOYAAAAJ&hl=zh-CN))
 
+[**Lifelong Sequential Modeling with Personalized Memorization for User Response Prediction**](/publication/HPMN)<br>
+**Jiarui Qin\***, Kan Ren\*, Yuchen Fang\*, Weinan Zhang, Lei Zheng, Weijie Bian, Guorui Zhou, Jian Xu, Yong Yu, Xiaoqiang Zhu, Kun Gai. (\*=equal contribution).<br>
+In *Proceedings of 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval*. **SIGIR 2019**.
 
 [**Deep Landscape Forecasting for Real-time Bidding Advertising**](/publication/DLF)<br>
-K. Ren, **J. Qin**, L. Zheng, W. Zhang, Y. Yu.
+Kan Ren, **Jiarui Qin**, Lei Zheng, Weinan Zhang, Yong Yu.<br>
+In *Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*. **KDD 2019**.
+
+[**Deep Recurrent Survival Analysis**](/publication/DRSA)<br>
+Kan Ren, **Jiarui Qin**, Lei Zheng, Zhengyu Yang, Weinan Zhang, Lin Qiu, Yong Yu.<br>
+In *Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence*. **AAAI 2019**.

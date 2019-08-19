@@ -6,10 +6,10 @@ excerpt: ''
 date: 2019-02-01
 venue: 'Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence. (AAAI 2019)'
 # paperurl: '' 
-citation: 'K. Ren, J. Qin, L. Zheng, Z. Yang, W. Zhang, L. Qiu, Y. Yu '
+# citation: ''
 ---
 
-K. Ren, **J. Qin**, L. Zheng, Z. Yang, W. Zhang, L. Qiu, Y. Yu.
+Kan Ren, **Jiarui Qin**, Lei Zheng, Zhengyu Yang, Weinan Zhang, Lin Qiu, Yong Yu.
 
 [\[PDF\]](https://arxiv.org/pdf/1809.02403.pdf)
 

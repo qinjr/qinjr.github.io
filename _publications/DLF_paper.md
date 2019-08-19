@@ -9,7 +9,7 @@ venue: 'Proceedings of the 25th ACM SIGKDD International Conference on Knowledge
 # citation: ''
 ---
 
-K. Ren, **J. Qin**, L. Zheng, W. Zhang, Y. Yu.
+Kan Ren, **Jiarui Qin**, Lei Zheng, Weinan Zhang, Yong Yu.
 
 [\[PDF\]](https://arxiv.org/pdf/1905.00758.pdf)
 
