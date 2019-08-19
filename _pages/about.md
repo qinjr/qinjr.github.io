@@ -10,7 +10,7 @@ redirect_from:
 
 # About me
 <p align='center'> 
-<img src="/images/avatar.png" alt="photo" style='width=300'>
+<img src="/images/avatar.png" alt="photo" style='width: 250px;'>
 </p>
 
 
@@ -19,3 +19,11 @@ redirect_from:
 - My research interests lie in general area of machine learning and deep learning, especially theirapplications in networks, recommender systems and computational advertising.
 
 - I received my Bachelor’s Degree of Software Engineering in Shanghai Jiao Tong University. My undergraduate research advisors are Prof. [Weinan Zhang](www.wnzhang.net) and Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu).
+
+
+# Recent News
+- July 31, 2019. I got **Student Travel Award** of [KDD 2019](https://www.kdd.org/kdd2019/). Thanks KDD!
+- June 30, 2019. Got Bachelor's Degree from Shanghai Jiao Tong University. Happy graduation!
+- April 30, 2019. One paper was accepted by [KDD 2019](https://www.kdd.org/kdd2019/).
+- April 11, 2019. One paper was accepted by [SIGIR 2019](https://sigir.org/sigir2019/).
+- November 1, 2018. One paper was accepted by [AAAI 2019](https://aaai.org/Conferences/AAAI-19/).
