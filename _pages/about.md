@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### About me
-<img src="/images/avatar.png" alignment='center' width="200"/>
+<div align=center><img src="/images/avatar.png" width=300></div>
 
 - I am currently a Master student in [Computer Science Department](http://www.cs.sjtu.edu.cn/en/) of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn), advised by Prof. [Weinan Zhang](www.wnzhang.net) and Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu). [\[Curriculum Vitae\]](/files/CV.pdf).[\[Google Scholar\]](https://scholar.google.com/citations?user=JPBGjOYAAAAJ&hl=zh-CN).
 
