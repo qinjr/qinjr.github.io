@@ -6,7 +6,7 @@ excerpt: ''
 date: 2019-08-03
 venue: 'Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. (KDD 2019)'
 # paperurl: '' 
-citation: 'K. Ren, **J. Qin**, L. Zheng, W. Zhang, Y. Yu.'
+# citation: ''
 ---
 
 K. Ren, **J. Qin**, L. Zheng, W. Zhang, Y. Yu.
