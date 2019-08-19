@@ -3,10 +3,10 @@ title: "Lifelong Sequential Modeling with Personalized Memorization for User Res
 collection: publications
 permalink: /publication/HPMN
 excerpt: ''
-date: 2009-10-01
+date: 2009-07-24
 venue: 'Proceedings of 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval. (SIGIR 2019)'
 paperurl: '' 
-citation: ''
+# citation: ''
 ---
 
 [\[PDF\]](https://arxiv.org/pdf/1905.00758.pdf).

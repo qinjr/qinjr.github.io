@@ -3,10 +3,10 @@ title: "Deep Recurrent Survival Analysis"
 collection: publications
 permalink: /publication/DRSA
 excerpt: ''
-date: 2009-10-01
+date: 2019-02-01
 venue: 'Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence. (AAAI 2019)'
 paperurl: '' 
-citation: ''
+# citation: ''
 ---
 
 [\[PDF\]](https://arxiv.org/pdf/1809.02403.pdf).

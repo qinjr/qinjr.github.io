@@ -3,10 +3,10 @@ title: "Deep Landscape Forecasting for Real-time Bidding Advertising"
 collection: publications
 permalink: /publication/DLF
 excerpt: ''
-date: 2009-10-01
+date: 2019-08-03
 venue: 'Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. (KDD 2019)'
 paperurl: '' 
-citation: ''
+# citation: ''
 ---
 
 [\[PDF\]](https://arxiv.org/pdf/1905.00758.pdf).
