@@ -59,4 +59,4 @@ Service and leadership
 * Currently signed in to 43 different slack teams -->
 Jiarui Qin (秦佳锐)
 
-[Click to View My Curriculum Vitae [PDF]](../files/CV.pdf)
+[Click to View My Curriculum Vitae [PDF]](CV.pdf)
