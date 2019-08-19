@@ -24,4 +24,4 @@ redirect_from:
 - June 30, 2019. Got Bachelor's Degree from Shanghai Jiao Tong University. Happy graduation!
 - April 30, 2019. One paper was accepted by [KDD 2019](https://www.kdd.org/kdd2019/) as **oral** presentation (rate: 9.1%).
 - April 11, 2019. One paper was accepted by [SIGIR 2019](https://sigir.org/sigir2019/) as **oral** presentation (rate: 20%).
-- November 1, 2018. One paper was accepted by [AAAI 2019](https://aaai.org/Conferences/AAAI-19/) as **oral** presentation (rate: 16.4%)..
+- November 1, 2018. One paper was accepted by [AAAI 2019](https://aaai.org/Conferences/AAAI-19/) as **oral** presentation (rate: 16.4%).
