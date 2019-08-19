@@ -1,10 +1,10 @@
 ---
-title: "Bid-Lands Forecasting"
+title: "GNN for RecSys"
 collection: talks
 type: "Talk"
-permalink: /talks/bid_lands
+permalink: /talks/gnn4rec
 venue: "Apex Lab, Shanghai Jiao Tong University"
-date: 2018-6-3
+date: 2019-6-3
 location: "Shanghai, China"
 ---
 
