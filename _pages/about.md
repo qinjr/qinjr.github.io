@@ -27,4 +27,4 @@ redirect_from:
 - November 1, 2018. One paper was accepted by [AAAI 2019](https://aaai.org/Conferences/AAAI-19/) as **oral** presentation (rate: 16.4%).
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=9X1Xbrcys07GUNz45Vpjgqiu2YILGSbcTQHy4gGi42w'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=400&t=n&d=9X1Xbrcys07GUNz45Vpjgqiu2YILGSbcTQHy4gGi42w&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
