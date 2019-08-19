@@ -2,9 +2,9 @@
 title: "Deep Recurrent Survival Analysis"
 collection: publications
 permalink: /publication/DRSA
-excerpt: 'This paper is about Deep Learning Method for Survival Analysis.'
+excerpt: ''
 date: 2019
-venue: 'Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI 2019)'
+venue: 'Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence. (AAAI 2019)'
 paperurl: '' 
 citation: ''
 ---
