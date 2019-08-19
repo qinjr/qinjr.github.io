@@ -9,3 +9,4 @@ location: "Shanghai, China"
 ---
 
 About bid landscape forecasting methods for RTB ads, with our approach.
+[\[slides\]](/files/talks/bid_lands.pdf)
