@@ -17,6 +17,10 @@ author_profile: true
 
 # Publications ([Google Scholar Profile](https://scholar.google.com/citations?user=JPBGjOYAAAAJ&hl=zh-CN))
 
+[**Sequential Recommendation with Dual Side Neighbor-based Collaborative Relation Modeling**](/publication/SCORE)<br>
+**Jiarui Qin**, Kan Ren, Yuchen Fang, Weinan Zhang, Yong Yu.<br>
+In *Proceedings of the 13th ACM International Conference on Web Search and Data Mining*. **WSDM 2020**.
+
 [**Lifelong Sequential Modeling with Personalized Memorization for User Response Prediction**](/publication/HPMN)<br>
 **Jiarui Qin\***, Kan Ren\*, Yuchen Fang\*, Weinan Zhang, Lei Zheng, Weijie Bian, Guorui Zhou, Jian Xu, Yong Yu, Xiaoqiang Zhu, Kun Gai. (\*=equal contribution).<br>
 In *Proceedings of 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval*. **SIGIR 2019**.
