@@ -20,6 +20,8 @@ redirect_from:
 
 
 # Recent News
+- May 16, 2020. One paper was accepted by [KDD 2020](https://www.kdd.org/kdd2020/) (rate: 16.9%).
+- May 10, 2020. One paper was accepted by [SIGIR 2020](http://sigir.org/sigir2020/) (rate: 27.5%).
 - Oct 11, 2019. One paper was accepted by [WSDM 2020](http://www.wsdm-conference.org/2020/call-for-papers.php) as poster presentation (rate: 15%).
 - July 31, 2019. I got **Student Travel Award** of [KDD 2019](https://www.kdd.org/kdd2019/). Thanks KDD!
 - June 30, 2019. Got Bachelor's Degree from Shanghai Jiao Tong University. Happy graduation!
