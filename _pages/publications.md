@@ -17,6 +17,15 @@ author_profile: true
 
 # Publications ([Google Scholar Profile](https://scholar.google.com/citations?user=JPBGjOYAAAAJ&hl=zh-CN))
 
+[**User Behavior Retrieval for Click-Through Rate Prediction**](/publication/UBR4CTR)<br>
+**Jiarui Qin**, Weinan Zhang, Xin Wu, Jiarui Jin, Yuchen Fang, Yong Yu.<br>
+In *Proceedings of the 43th International ACM SIGIR Conference on Research and Development in Information Retrieval*. **SIGIR 2020**.
+
+[**An Efficient Neighborhood-based Interaction Model for Recommendation on Heterogeneous Graph**](/publication/NIRec)<br>
+Jiarui Jin, **Jiarui Qin**, Yuchen Fang, Kounianhua Du, Weinan Zhang, Yong Yu, Zheng Zhang, Alexander J.Smola.<br>
+In *Proceeding of the 25nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*. **KDD 2020**.
+
+
 [**Sequential Recommendation with Dual Side Neighbor-based Collaborative Relation Modeling**](/publication/SCORE)<br>
 **Jiarui Qin**, Kan Ren, Yuchen Fang, Weinan Zhang, Yong Yu.<br>
 In *Proceedings of the 13th ACM International Conference on Web Search and Data Mining*. **WSDM 2020**.
