@@ -23,12 +23,7 @@ redirect_from:
 - Sept 23, 2020. Got National Scholarship.
 - May 16, 2020. One paper was accepted by [KDD 2020](https://www.kdd.org/kdd2020/) (rate: 16.9%).
 - May 10, 2020. One paper was accepted by [SIGIR 2020](http://sigir.org/sigir2020/) (rate: 27.5%).
-<!-- - Oct 11, 2019. One paper was accepted by [WSDM 2020](http://www.wsdm-conference.org/2020/call-for-papers.php) as poster presentation (rate: 15%).
-- July 31, 2019. I got **Student Travel Award** of [KDD 2019](https://www.kdd.org/kdd2019/). Thanks KDD!
-- June 30, 2019. Got Bachelor's Degree from Shanghai Jiao Tong University. Happy graduation!
-- April 30, 2019. One paper was accepted by [KDD 2019](https://www.kdd.org/kdd2019/) as **oral** presentation (rate: 9.1%).
-- April 11, 2019. One paper was accepted by [SIGIR 2019](https://sigir.org/sigir2019/) as **oral** presentation (rate: 20%).
-- November 1, 2018. One paper was accepted by [AAAI 2019](https://aaai.org/Conferences/AAAI-19/) as **oral** presentation (rate: 16.4%). -->
+
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=400&t=tt&d=9X1Xbrcys07GUNz45Vpjgqiu2YILGSbcTQHy4gGi42w&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
