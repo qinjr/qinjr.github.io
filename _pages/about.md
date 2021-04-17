@@ -20,6 +20,7 @@ redirect_from:
 
 
 # Recent News
+- April 16, 2021. One survey paper was accepted by [IJCAI 2021](https://ijcai-21.org) Survey Track (rate: 31.9%).
 - Sept 23, 2020. Got National Scholarship.
 - May 16, 2020. One paper was accepted by [KDD 2020](https://www.kdd.org/kdd2020/) (rate: 16.9%).
 - May 10, 2020. One paper was accepted by [SIGIR 2020](http://sigir.org/sigir2020/) (rate: 27.5%).
