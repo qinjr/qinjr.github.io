@@ -16,6 +16,9 @@ author_profile: true
 {% endfor %} -->
 
 # Publications ([Google Scholar Profile](https://scholar.google.com/citations?user=JPBGjOYAAAAJ&hl=zh-CN))
+[**Deep Learning for Click-Through Rate Estimation**](/publication/Deep-CTR-Survey)<br>
+Weinan Zhang, **Jiarui Qin**, Wei Guo, Ruiming Tang, Xiuqiang He.<br>
+In *Proceedings of the 30th International Joint Conference on Artificial Intelligence*. **IJCAI 2021 Survey Track**.
 
 [**User Behavior Retrieval for Click-Through Rate Prediction**](/publication/UBR4CTR)<br>
 **Jiarui Qin**, Weinan Zhang, Xin Wu, Jiarui Jin, Yuchen Fang, Yong Yu.<br>
@@ -31,7 +34,7 @@ In *Proceeding of the 25nd ACM SIGKDD International Conference on Knowledge Disc
 In *Proceedings of the 13th ACM International Conference on Web Search and Data Mining*. **WSDM 2020**.
 
 [**Lifelong Sequential Modeling with Personalized Memorization for User Response Prediction**](/publication/HPMN)<br>
-**Jiarui Qin\***, Kan Ren\*, Yuchen Fang\*, Weinan Zhang, Lei Zheng, Weijie Bian, Guorui Zhou, Jian Xu, Yong Yu, Xiaoqiang Zhu, Kun Gai. (\*=equal contribution).<br>
+Kan Ren\*, **Jiarui Qin\***, Yuchen Fang\*, Weinan Zhang, Lei Zheng, Weijie Bian, Guorui Zhou, Jian Xu, Yong Yu, Xiaoqiang Zhu, Kun Gai. (\*=equal contribution).<br>
 In *Proceedings of 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval*. **SIGIR 2019**.
 
 [**Deep Landscape Forecasting for Real-time Bidding Advertising**](/publication/DLF)<br>
