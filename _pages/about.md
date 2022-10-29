@@ -20,6 +20,7 @@ redirect_from:
 
 
 # Recent News
+- Oct 15, 2022. One paper was accepted by [WSDM 2023](https://www.wsdm-conference.org/2023/) (rate: 17.8%).
 - April 15, 2022. One paper was accepted by [IJCAI 2022](https://ijcai-22.org) Survey Track (rate: 18%).
 - March 31, 2022. One paper was accepted by [SIGIR 2022](https://sigir.org/sigir2022/) (rate: 20.3%).
 <!-- - Nov 24, 2021. One paper was accepted by [ICDE 2022](https://icde2022.ieeecomputer.my) -->
