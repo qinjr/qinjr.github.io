@@ -14,13 +14,13 @@ redirect_from:
 
 - I am currently a researcher of Huawei Noah's Ark Lab. I obtained my Ph.D. in June, 2024 from [Computer Science Department](http://www.cs.sjtu.edu.cn/en/) of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn), advised by Prof. [Weinan Zhang](http://www.wnzhang.net) and Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu). [\[Curriculum Vitae\]](/files/CV.pdf). [\[Google Scholar\]](https://scholar.google.com/citations?user=JPBGjOYAAAAJ&hl=zh-CN). I received my Bachelor’s Degree of Software Engineering in Shanghai Jiao Tong University.
 
-- Currently focusing on LLM (PanGu). Have experience in large-scale training on Ascend NPUs. Interested in full-stack techniques of LLM/Multimodal training/applications.
+- Currently focusing on LLM (PanGu). Interested in full-stack techniques of LLM/Multimodal training/applications.
 
 - Previous expertise includes recommender systems and computational advertising. Worked at Alibaba/Huawei/TikTok as intern, multiple proposed algorithms have been deployed online and serve the main traffic.
 
 
 # Recent News
-- July 8, 2024. Join Speech&Semantic Lab of Huawei Noah’s Ark Lab as a researcher.
+- July 8, 2024. Join NLP Group of Huawei Noah’s Ark Lab as a researcher.
 
 
 
