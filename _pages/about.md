@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<p align='center'> 
+<!-- <p align='center'> 
 <img src="/images/avatar2.jpeg" alt="photo" style='width: 300px;'>
-</p>
+</p> -->
 
-- I am currently a researcher of Huawei Noah's Ark Lab. I obtained my Ph.D. in June, 2024 from [Computer Science Department](http://www.cs.sjtu.edu.cn/en/) of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn), advised by Prof. [Weinan Zhang](http://www.wnzhang.net) and Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu). [\[Curriculum Vitae\]](/files/CV.pdf). [\[Google Scholar\]](https://scholar.google.com/citations?user=JPBGjOYAAAAJ&hl=zh-CN). I received my Bachelor’s Degree of Software Engineering in Shanghai Jiao Tong University.
+- I am currently a researcher of Huawei Noah's Ark Lab. I obtained my Ph.D. in June, 2024 from Computer Science Department of Shanghai Jiao Tong University, advised by Prof. [Weinan Zhang](http://www.wnzhang.net) and Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu). I received my Bachelor’s Degree of Software Engineering in Shanghai Jiao Tong University. [\[Google Scholar\]](https://scholar.google.com/citations?user=JPBGjOYAAAAJ&hl=zh-CN).
 
 - Currently focusing on LLM (PanGu). Interested in full-stack techniques of LLM/Multimodal training/applications.
 
